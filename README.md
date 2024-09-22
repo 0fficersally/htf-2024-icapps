@@ -1,36 +1,11 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hack The Future 2024 – Am🌘ng The Stars
 
-## Getting Started
+---
 
-First, run the development server:
+## Hack Mission 110 – Ground Control to Major Tom
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Major Tom and his team are running out of oxygen and need your help to find the fastest way to 2MASS J23062928-0502285, also known as TRAPPIST-1. You are the head of the ground control centre on Earth and are responsible for handling all the data you receive from the spacecraft. Use this data as best you can to get everyone safely to their destination before they run out of oxygen. Are you ready to lead this life-saving mission?
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+> **A Next.js web application for Hack The Future 2024, developed with [@Brent-809](https://github.com/Brent-809), and supervised by [@icapps](https://github.com/icapps).**
